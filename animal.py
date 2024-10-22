@@ -1,8 +1,5 @@
 import sys
 
-def default():
-    print("hello")
-
 def cat():
     print("Mewo")
 
